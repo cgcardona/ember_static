@@ -1,0 +1,3 @@
+EmberStatic.Router.map(function() {
+
+});

@@ -8,6 +8,7 @@ EmberStatic::Application.configure do
 
   # Log error messages when you accidentally call methods on nil.
   config.whiny_nils = true
+  config.ember.variant = :development
 
   # Show full error reports and disable caching
   config.consider_all_requests_local       = true
